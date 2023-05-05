@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Kadyr Amangylyjow. I'm from Turkmenistan :turkmenistan:
+- 👋 Hi, I'm Kadyr Amangylyjov. I'm from Turkmenistan :turkmenistan:
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning algorithms, data structures
 - 📫 How to reach me kadyrtkm@gmail.com
